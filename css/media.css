@@ -1,0 +1,168 @@
+@media only screen and (max-width: 992px) {
+    .user-profile {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1750px) {
+    header .container {
+        max-width: 1750px !important;
+    }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1750px) {
+    .container {
+        max-width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .sale {
+        width: 570px;
+        height: 278px;
+    }
+
+    .products .collections {
+        width: 285px;
+        height: 407px;
+    }
+
+    .intro {
+        height: 567px;
+    }
+
+    .collection {
+        width: 356px;
+        height: 356px;
+    }
+    .new{
+        width: 261px;
+        height: 435px;
+    
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .sale {
+        width: 240px;
+        height: 383px;
+    }
+
+    .products .collections {
+        width: 320px;
+        height: 446px;
+    }
+
+    .intro {
+        height: 487px;
+    }
+
+    .collection {
+        width: 296px;
+        height: 296px;
+    }
+    .new{
+        width: 295px;
+        height: 494px;
+    
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .sale {
+        width: 720px;
+        height: 262px;
+    }
+
+    .products .collections {
+        width: 240px;
+        height: 383px;
+    }
+
+    .intro {
+        height: 423px;
+    }
+
+    .collection {
+        width: 336px;
+        height: 336px;
+    }
+    .new{
+        width: 336px;
+        height: 561px;
+    
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .sale {
+        width: 540px;
+        height: 252px;
+    }
+
+    .products .collections {
+        width: 270px;
+        height: 390px;
+    }
+
+    .intro {
+        height: 324px;
+    }
+
+    .collection {
+        width: 246px;
+        height: 246px;
+    }
+    .new{
+        width: 516px;
+        height: 521px;
+    
+    }
+
+}
+
+@media only screen and (max-width: 576px) {
+    .sale {
+        width: 100vw;
+        height: 252px;
+    }
+
+    .products .collections {
+        width: 100vw;
+        height: 170vw;
+    }
+
+    .intro {
+        height: 44vw;
+    }
+
+    .collection {
+        width: 94vw;
+        height: 94vw;
+        margin: auto;
+    }
+    .new{
+        width: 95vw;
+        height: 521px;
+        margin: auto;
+    
+    }
+
+}
+
+@media only screen and (min-width: 1344px) {
+    .container {
+        max-width: 1344px !important;
+    }
+
+}
+
+@media only screen and (min-width: 1544px) {
+    .announcement.container {
+        max-width: 1544px !important;
+        height: 700px;
+    }
+}
