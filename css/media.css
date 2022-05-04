@@ -40,6 +40,10 @@
         height: 435px;
     
     }
+    .comment{
+        width: 451px;
+        height: 506px;
+    }
 
 }
 
@@ -66,6 +70,16 @@
         width: 295px;
         height: 494px;
     
+    }
+    .limited .picture{
+        height: 550px;
+    }
+    .limited .about{
+        height: 366px;
+    }
+    .comment{
+        width: 451px;
+        height: 506px;
     }
 
 }
@@ -94,7 +108,13 @@
         height: 561px;
     
     }
-
+    .limited .picture{
+        height: 63vw;
+    }
+    .comment{
+        width: 659px;
+        height: 447px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -119,7 +139,10 @@
     .new{
         width: 516px;
         height: 521px;
-    
+    }
+    .comment{
+        width: 516px;
+        height: 475px;
     }
 
 }
@@ -149,6 +172,10 @@
         height: 521px;
         margin: auto;
     
+    }
+    .comment{
+        width: 100vw;
+        height: 560px;
     }
 
 }

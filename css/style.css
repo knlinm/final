@@ -70,3 +70,37 @@ footer .inner {
 .special .products{
     width: 78%;
 }
+
+.limited .picture{
+    height: 542px;
+    border: 1px solid black;
+}
+.limited .about{
+    height: 385px;
+    border: 1px solid black;
+}
+
+.offer-wrapper{
+    display: flex !important;
+}
+.service-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #FF6F61;
+}
+.logo{
+    width: 264px;
+    height: 95px;
+    border: 1px solid black;
+}
+.brands-slider{
+    padding: 50px 10px;
+    border: 1px solid black;
+}
+.comment{
+    width: 560px;
+    height: 478px;
+    border: 1px solid black;
+    
+}
